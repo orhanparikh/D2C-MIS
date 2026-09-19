@@ -1,0 +1,3 @@
+{"brand": "My Brand", "archetype": "bpc", "unit": "INR lakh", "start_month": "2026-04", "months": 12,
+ "channels": [{"name": "Website", "type": "website"}, {"name": "Quick Commerce", "type": "qcom"}],
+ "decisions": {"ship_fee": "cost", "qcom_promo": "deduction"}}

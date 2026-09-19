@@ -1,0 +1,3 @@
+{"brand": "Test Snacks", "archetype": "fnb", "unit": "INR lakh", "start_month": "2025-01", "months": 12,
+ "channels": [{"name": "Website", "type": "website"}, {"name": "Blinkit", "type": "qcom"}, {"name": "Amazon", "type": "amazon"}, {"name": "Nykaa B2B", "type": "b2b_marketplace"}],
+ "decisions": {"qcom_promo": "deduction", "ship_fee": "revenue"}}

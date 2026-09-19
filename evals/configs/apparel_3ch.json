@@ -1,0 +1,3 @@
+{"brand": "Test Apparel Co", "archetype": "apparel", "unit": "INR lakh", "start_month": "2025-04", "months": 12,
+ "channels": [{"name": "Website", "type": "website"}, {"name": "Myntra", "type": "marketplace"}, {"name": "Offline", "type": "offline"}],
+ "decisions": {"ship_fee": "cost", "store_staff": "cm2", "exchanges": "gross"}}
